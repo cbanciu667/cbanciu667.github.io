@@ -51,7 +51,7 @@
     "coreDescription": "Solid Distributed Systems este o firmă românească de infrastructură cloud și AI la nivel senior. Vindem pachete la prețuri fixe cu sferă, prețuri și termene publicate. Fără retainere vagi, fără oferte personalizate la cerere, fără ingineri juniori care învață pe contul dvs. Un specialist senior, două decenii de experiență în producție și o bibliotecă de livrare rafinată în peste patruzeci de proiecte — de la sisteme ale Comisiei Europene la platforme fintech și backend-uri de agenți AI.",
     "whyUsHeading": "De ce noi",
     "whyOption1Heading": "Angajați o firmă mare de consultanță",
-    "whyOption1Text": "Vor trimite o echipă, vă vor taxa €40.000–100.000 pentru același rezultat și vor aloca un arhitect senior care apare la kickoff și la finalizare, în timp ce juniorii fac tot ce e la mijloc.",
+    "whyOption1Text": "Vor trimite o echipă, vă vor taxa semnificativ mai mult pentru același rezultat și vor aloca un arhitect senior care apare la kickoff și la finalizare, în timp ce juniorii fac tot ce e la mijloc.",
     "whyOption2Heading": "Construiți intern",
     "whyOption2Text": "Cu doi ingineri cloud puternici și șase săptămâni de timp, absolut puteți. Vă vom spune când acesta este răspunsul corect. Dar majoritatea echipelor subestimează ce vine după ce totul funcționează: IAM configurat corect, chei KMS rotite, documentație GDPR sustenabilă la audit, runbook-ul de ieșire pe care regulatorul îl cere acum. Acolo dispar lunile.",
     "whyOption3Heading": "Cumpărați un pachet gata livrat de la noi",
@@ -166,12 +166,12 @@
     "aiText": "Stive LLM production-ready, RAG conform GDPR, servere MCP, hardening AI agent și sandbox-uri AI on-prem. Rezidența datelor în UE implicit.",
     "retainerTitle": "Retainere",
     "retainerText": "Inginerie de platforme senior fracționată și îngrijirea platformei AI pe bază lunară. Anulare cu 30 de zile preaviz.",
-    "ctaButton": "Vezi toate pachetele cu prețuri"
+    "ctaButton": "Vezi toate pachetele"
   },
   "packagesPage": {
-    "subtitle": "Prețuri fixe. Sferă publicată.",
+    "subtitle": "Sferă publicată. Termene fixe.",
     "heading": "Pachete",
-    "intro": "Toate pachetele includ o garanție de 30 de zile. Prețurile sunt fixe — fără comenzi de modificare, fără extinderi de sferă. Pachetele peste €3.000 necesită un apel de pre-vânzare de 30 de minute.",
+    "intro": "Toate pachetele includ o garanție de 30 de zile. Fără comenzi de modificare, fără extinderi de sferă. Pachetele necesită un apel de pre-vânzare de 30 de minute — contactați-ne pentru a începe.",
     "wipNote": "Disponibilitate curentă: maximum 3 pachete active + 3 retainere. Publicăm acest lucru deoarece reflectă calitate, nu lipsă de capacitate.",
     "filterCategory": "Categorie:",
     "filterCloud": "Cloud:",
@@ -186,7 +186,7 @@
     "ctaPackage": "Comandă",
     "ctaRetainer": "Comandă",
     "noResults": "Niciun pachet nu corespunde filtrelor selectate.",
-    "preSaleNote": "Pachetele peste €3.000 necesită un apel de pre-vânzare de 30 de minute. Plata prin factură Stripe sau transfer bancar."
+    "preSaleNote": "Toate pachetele necesită un apel de pre-vânzare de 30 de minute. Contactați-ne pentru a discuta sfera și a începe."
   },
   "procurement": {
     "subtitle": "Informații pentru furnizori",
@@ -263,9 +263,9 @@
     "buildCol1Heading": "Construiți intern",
     "buildCol1Text": "Potrivit când echipa are doi ingineri cloud puternici, șase săptămâni de timp și nicio restricție de reglementare. Vă vom spune când acesta este răspunsul dvs. Majoritatea echipelor subestimează ce vine după: IAM configurat corect, chei KMS rotite, documentație GDPR sustenabilă la audit, runbook-ul de ieșire pe care regulatorul îl cere acum.",
     "buildCol2Heading": "Angajați o firmă mare",
-    "buildCol2Text": "Potrivit când aveți nevoie de un vendor nominalizat pentru achiziții, buget peste €50.000 și puteți absorbi un ciclu de vânzări de patru-șase săptămâni. Veți obține un arhitect senior la kickoff și finalizare. Juniorii fac tot ce e la mijloc. Prețurile pornesc de la €40.000.",
+    "buildCol2Text": "Potrivit când aveți nevoie de un vendor nominalizat pentru achiziții și puteți absorbi un ciclu de vânzări de patru-șase săptămâni. Veți obține un arhitect senior la kickoff și finalizare. Juniorii fac tot ce e la mijloc.",
     "buildCol3Heading": "Cumpărați un pachet de la noi",
-    "buildCol3Text": "Potrivit când aveți nevoie de rezultat, nu de un proces de descoperire. Preț fix, sferă fixă, termen fix. Același inginer care a scris Terraform-ul răspunde la telefon când ceva se strică în luna trei. Prețurile pornesc de la €2.900.",
+    "buildCol3Text": "Potrivit când aveți nevoie de rezultat, nu de un proces de descoperire. Sferă fixă, termen fix. Același inginer care a scris Terraform-ul răspunde la telefon când ceva se strică în luna trei.",
     "ctaButton": "Vedeți pachetele"
   },
   "order": {

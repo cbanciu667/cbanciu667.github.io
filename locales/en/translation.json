@@ -51,7 +51,7 @@
     "coreDescription": "Solid Distributed Systems is a Romanian senior cloud and AI infrastructure practice. We sell fixed-price packages with published scope, published prices, and published timelines. No vague retainers, no \"we'll send a custom quote\", no junior engineers learning on your account. One senior practitioner, two decades of production scars, and a delivery library refined across forty-plus projects from EU Commission systems to fintech platforms to AI agent backends.",
     "whyUsHeading": "Why us",
     "whyOption1Heading": "Hire a large consultancy",
-    "whyOption1Text": "They'll send a team, charge you €40,000–100,000 for the same outcome, and assign a senior architect who shows up to the kickoff and the closeout while juniors do the middle.",
+    "whyOption1Text": "They'll send a team, charge significantly more for the same outcome, and assign a senior architect who shows up to the kickoff and the closeout while juniors do the middle.",
     "whyOption2Heading": "Build it in-house",
     "whyOption2Text": "With two strong cloud engineers and six weeks of runway, you absolutely can. We'll tell you when this is the right answer. But most teams underestimate what comes after \"it works\": IAM scoped correctly, KMS keys rotating, GDPR documentation defensible under audit, the exit runbook the regulator now requires. That tail is where months disappear.",
     "whyOption3Heading": "Buy a finished package from us",
@@ -166,12 +166,12 @@
     "aiText": "Production-ready LLM stacks, GDPR-compliant RAG, MCP servers, AI agent hardening, and on-prem AI sandboxes. EU data residency by default.",
     "retainerTitle": "Retainers",
     "retainerText": "Fractional senior platform engineering and AI platform care on a monthly basis. Cancel with 30 days notice.",
-    "ctaButton": "See all packages with prices"
+    "ctaButton": "See all packages"
   },
   "packagesPage": {
-    "subtitle": "Fixed prices. Published scope.",
+    "subtitle": "Published scope. Fixed timelines.",
     "heading": "Packages",
-    "intro": "All packages include a 30-day warranty. Prices are fixed — no change orders, no scope creep. Packages above €3,000 require a 30-minute pre-sale call.",
+    "intro": "All packages include a 30-day warranty. No change orders, no scope creep. Packages require a 30-minute pre-sale call — contact us to get started.",
     "wipNote": "Current availability: 3 active packages + 3 retainers max. We publish this because it signals quality, not shortage.",
     "filterCategory": "Category:",
     "filterCloud": "Cloud:",
@@ -186,7 +186,7 @@
     "ctaPackage": "Order",
     "ctaRetainer": "Order",
     "noResults": "No packages match the selected filters.",
-    "preSaleNote": "Packages above €3,000 require a 30-minute pre-sale call. Payment by Stripe invoice or bank transfer."
+    "preSaleNote": "All packages require a 30-minute pre-sale call. Contact us to discuss scope and get started."
   },
   "procurement": {
     "subtitle": "Vendor Information",
@@ -263,9 +263,9 @@
     "buildCol1Heading": "Build in-house",
     "buildCol1Text": "Right when your team has two strong cloud engineers, six weeks of runway, and no regulatory tail. We will tell you when this is your answer. Most teams underestimate the tail: IAM scoped correctly, KMS keys rotating, GDPR documentation defensible under audit, the exit runbook the regulator now requires.",
     "buildCol2Heading": "Hire a large consultancy",
-    "buildCol2Text": "Right when you need a named vendor for procurement, have a budget above €50k, and can absorb a four-to-six week sales cycle. You will get a senior architect at kickoff and closeout. Juniors do the middle. Prices start at €40,000.",
+    "buildCol2Text": "Right when you need a named vendor for procurement and can absorb a four-to-six week sales cycle. You will get a senior architect at kickoff and closeout. Juniors do the middle.",
     "buildCol3Heading": "Buy a package from us",
-    "buildCol3Text": "Right when you need the outcome, not the discovery process. Fixed price, fixed scope, fixed timeline. The same engineer who wrote the Terraform answers the phone when something breaks in month three. Prices start at €2,900.",
+    "buildCol3Text": "Right when you need the outcome, not the discovery process. Fixed scope, fixed timeline. The same engineer who wrote the Terraform answers the phone when something breaks in month three.",
     "ctaButton": "Browse packages"
   },
   "order": {
