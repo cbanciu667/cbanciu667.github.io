@@ -36,11 +36,11 @@
   "about": {
     "subtitle": "Înțelepciune în cod. Construit să reziste.",
     "heading": "Fundații care îl supraviețuiesc pe arhitect.",
-    "text": "Infrastructură cloud și AI nativă în UE. Sferă publicată. Ofertă fixă. Livrare senior. AWS, Azure sau furnizori UE suverani — alegerea ta. GDPR implicit. Un inginer senior, garanție 30 de zile.",
+    "text": "Infrastructură cloud și AI nativă în UE. Livrare senior. AWS, Azure sau furnizori UE suverani — alegerea ta. GDPR implicit. Un inginer senior, sferă publicată, ofertă fixă, garanție 30 de zile.",
     "discoverMore": "Vezi pachetele",
     "discoverMoreLink": "/page-services",
     "diff1": "Livrare exclusiv senior",
-    "diff2": "Sferă fixă, ofertă fixă",
+    "diff2": "Sferă publicată · ofertă fixă",
     "diff3": "GDPR nativ, bază în UE",
     "diff4": "Cloud-agnostic"
   },
@@ -158,14 +158,17 @@
     "reset": "Resetați"
   },
   "homeTiers": {
-    "subtitle": "14 pachete în 4 niveluri",
+    "subtitle": "13 pachete în 4 niveluri",
     "heading": "Ce construim",
-    "infraTitle": "Infrastructură Sovereignty-first",
-    "infraText": "Fundații cloud conforme cu reglementările UE, configurări DORA-ready și disaster recovery multi-regiune. Livrate pe AWS, Azure sau furnizori UE suverani.",
+    "foundationTitle": "Fundație",
+    "foundationText": "Fundații cloud conforme cu reglementările UE, configurări DORA-ready, disaster recovery multi-regiune și audituri de migrare K8s-to-serverless. Livrate pe AWS, Azure sau furnizori UE suverani.",
     "aiTitle": "Infrastructură AI",
-    "aiText": "Stive LLM production-ready, RAG conform GDPR, servere MCP, hardening AI agent și sandbox-uri AI on-prem. Rezidența datelor în UE implicit.",
-    "retainerTitle": "Retainere",
+    "aiText": "Stive LLM production-ready, RAG conform GDPR, servere MCP și hardening AI agent. Rezidența datelor în UE implicit.",
+    "specialisedTitle": "Build-uri specializate",
+    "specialisedText": "Sandbox-uri AI on-prem și configurare flux AI pentru echipe de inginerie. Sferă fixă, termen fix.",
+    "retainerTitle": "Retainere (îngrijire continuă)",
     "retainerText": "Inginerie de platforme senior fracționată și îngrijirea platformei AI pe bază lunară. Anulare cu 30 de zile preaviz.",
+    "trainingAddOn": "Disponibil și: Formare / Educație pentru echipe — personalizat, sferă stabilită la cerere.",
     "ctaButton": "Vezi toate pachetele"
   },
   "packagesPage": {
@@ -191,7 +194,8 @@
     "contactStripHeading": "Preferați să discutați direct?",
     "bookCall": "Rezervați un apel de 20 de minute",
     "emailDirect": "Scrieți-mi direct",
-    "proofStrip": "Livrare anterioară pentru clienți precum Comisia Europeană, Volkswagen, BMW, Lego, Cisco și IBM · Certificat AWS Solutions Architect Professional"
+    "proofStrip": "Livrare anterioară pentru clienți precum Comisia Europeană, Volkswagen, BMW, Lego, Cisco și IBM · Certificat AWS Solutions Architect Professional",
+    "trainingAddOn": "Disponibil și: Formare / Educație pentru echipe — personalizat, sferă stabilită la cerere."
   },
   "procurement": {
     "subtitle": "Informații pentru furnizori",

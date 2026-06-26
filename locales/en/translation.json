@@ -36,11 +36,11 @@
   "about": {
     "subtitle": "Wisdom in code. Built to last.",
     "heading": "Foundations that outlast their builders.",
-    "text": "EU-native cloud and AI infrastructure. Published scope. Fixed quote. Senior delivery. AWS, Azure, or sovereign EU providers — your choice. GDPR by default. One senior engineer, 30-day warranty.",
+    "text": "EU-native cloud and AI infrastructure. Senior delivery. AWS, Azure, or sovereign EU providers — your choice. GDPR by default. One senior engineer, published scope, fixed quote, 30-day warranty.",
     "discoverMore": "See packages",
     "discoverMoreLink": "/page-services",
     "diff1": "Senior-only delivery",
-    "diff2": "Fixed-scope, fixed-quote",
+    "diff2": "Published scope · fixed quotes",
     "diff3": "GDPR-native, EU-based",
     "diff4": "Cloud-agnostic"
   },
@@ -158,14 +158,17 @@
     "reset": "Reset"
   },
   "homeTiers": {
-    "subtitle": "14 packages across 4 tiers",
+    "subtitle": "13 packages across 4 tiers",
     "heading": "What we build",
-    "infraTitle": "Sovereignty-first Infrastructure",
-    "infraText": "EU-compliant cloud foundations, DORA-ready setups, and multi-region disaster recovery. Delivered on AWS, Azure, or sovereign EU providers.",
+    "foundationTitle": "Foundation",
+    "foundationText": "EU-compliant cloud foundations, DORA-ready setups, multi-region disaster recovery, and K8s-to-serverless migration audits. Delivered on AWS, Azure, or sovereign EU providers.",
     "aiTitle": "AI Infrastructure",
-    "aiText": "Production-ready LLM stacks, GDPR-compliant RAG, MCP servers, AI agent hardening, and on-prem AI sandboxes. EU data residency by default.",
-    "retainerTitle": "Retainers",
+    "aiText": "Production-ready LLM stacks, GDPR-compliant RAG, MCP servers, and AI agent hardening. EU data residency by default.",
+    "specialisedTitle": "Specialised Builds",
+    "specialisedText": "On-prem AI sandboxes and AI coding workflow setup for engineering teams. Fixed scope, fixed timeline.",
+    "retainerTitle": "Retainers (ongoing care)",
     "retainerText": "Fractional senior platform engineering and AI platform care on a monthly basis. Cancel with 30 days notice.",
+    "trainingAddOn": "Also available: Team Training / Education — bespoke, scoped on request.",
     "ctaButton": "See all packages"
   },
   "packagesPage": {
@@ -191,7 +194,8 @@
     "contactStripHeading": "Prefer to just talk?",
     "bookCall": "Book a 20-min call",
     "emailDirect": "Email me directly",
-    "proofStrip": "Past delivery for clients including European Commission, Volkswagen, BMW, Lego, Cisco, and IBM · AWS Solutions Architect Professional certified"
+    "proofStrip": "Past delivery for clients including European Commission, Volkswagen, BMW, Lego, Cisco, and IBM · AWS Solutions Architect Professional certified",
+    "trainingAddOn": "Also available: Team Training / Education — bespoke, scoped on request."
   },
   "procurement": {
     "subtitle": "Vendor Information",
