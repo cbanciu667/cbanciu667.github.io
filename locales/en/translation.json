@@ -35,8 +35,8 @@
   },
   "about": {
     "subtitle": "Foundations that outlast their builders.",
-    "heading": "EU-native cloud & AI infrastructure, built by one senior engineer.",
-    "text": "EU-native cloud and AI infrastructure. Senior delivery. AWS, Azure, or sovereign EU providers — your choice. GDPR by default. One senior engineer, published scope, fixed quote, 30-day warranty.",
+    "heading": "Public cloud, Sovereign cloud & Ai infrastructure.",
+    "text": "Public cloud, Sovereign cloud and AI infrastructure. Senior delivery. AWS, Azure, or sovereign EU providers — your choice. GDPR by default. Senior engineers, published scope, fixed quote, 30-day warranty.",
     "discoverMore": "See packages",
     "discoverMoreLink": "/page-services",
     "diff1": "Senior-only delivery",
@@ -194,7 +194,7 @@
     "contactStripHeading": "Prefer to just talk?",
     "bookCall": "Book a 20-min call",
     "emailDirect": "Email me directly",
-    "proofStrip": "Past delivery for clients including European Commission, Volkswagen, BMW, Lego, Cisco, and IBM · AWS Solutions Architect Professional certified",
+    "proofStrip": "Past delivery for top tier companies · Cloud certified architects",
     "trainingAddOn": "Also available: Team Training / Education — bespoke, scoped on request."
   },
   "procurement": {
